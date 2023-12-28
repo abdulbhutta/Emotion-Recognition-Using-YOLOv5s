@@ -6,7 +6,7 @@ This is a final project for EE8108: Multimedia Processing and Communication
 
 The project implements a generalized model to detect emotions through an image.
 
-![alt text](https://github.com/abdulbhutta/Emotion-Recognition-Using-YOLOv5s/blob/main/Images/Image_Prediction.jpg)
+![alt text](https://github.com/abdulbhutta/Emotion-Recognition-Using-YOLOv5s/blob/main/Images/Image.jpg)
 
 ## Getting Started
 
