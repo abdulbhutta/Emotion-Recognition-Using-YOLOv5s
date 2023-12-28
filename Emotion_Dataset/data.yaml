@@ -1,0 +1,18 @@
+names:
+- anger
+- contempt
+- disgust
+- fear
+- happy
+- sadness
+- surprise
+nc: 7
+roboflow:
+  license: Public Domain
+  project: emociones
+  url: https://universe.roboflow.com/uemc-y7rsy/emociones/dataset/1
+  version: 1
+  workspace: uemc-y7rsy
+test: ../test/images
+train: Emociones-1/train/images
+val: Emociones-1/valid/images
