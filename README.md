@@ -3,6 +3,7 @@
 ### EE8223 - Deep Learning Final Project
 
 This is a final project for EE8108: Multimedia Processing and Communication
+Dataset: https://universe.roboflow.com/uemc-y7rsy/emociones
 
 The project implements a generalized model to detect emotions through an image.
 
