@@ -1,6 +1,6 @@
 # Emotion Recognition Using YOLOv5s
 ### Abdul Bhutta
-### EE8223 - Deep Learning Final Project
+### EE8108 - Multimedia Processing and Communication
 
 This is a final project for EE8108: Multimedia Processing and Communication
 Dataset: https://universe.roboflow.com/uemc-y7rsy/emociones
